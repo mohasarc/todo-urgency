@@ -1,4 +1,4 @@
-# Todo Urgency README
+# Todo Urgency
 
 You can manage your todos based on urgency level by specifying a number per todo. They will be listed in a sidebar based on their urgency level from most urgent to least urgent.
 
